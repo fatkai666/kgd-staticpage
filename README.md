@@ -1,0 +1,2 @@
+# kgd-staticpage
+kgd-staticpage
